@@ -1,3 +1,4 @@
+- Check out this project to your local machine.
 - Navigate to Your Project Folder
 - pip install flask flask_sqlalchemy
 - python3 app.py
